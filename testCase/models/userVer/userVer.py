@@ -15,10 +15,5 @@ class UserVer(BasePage):
         pass
     def forgetPwd(self):
         pass
-<<<<<<< HEAD
     def userLogin(self):
         pass
-
-
-=======
->>>>>>> origin/master
